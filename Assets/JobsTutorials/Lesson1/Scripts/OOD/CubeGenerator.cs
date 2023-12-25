@@ -1,4 +1,4 @@
-﻿using JobsTutorials.Lesson1.Common;
+﻿using JobsTutorials.Lesson1.Scripts.Common;
 using UnityEngine;
 using UnityEngine.Pool;
 using Random = UnityEngine.Random;

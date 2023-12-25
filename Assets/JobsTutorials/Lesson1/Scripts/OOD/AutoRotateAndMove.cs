@@ -1,5 +1,5 @@
 using System;
-using JobsTutorials.Lesson1.Common;
+using JobsTutorials.Lesson1.Scripts.Common;
 using Unity.Profiling;
 using UnityEngine;
 

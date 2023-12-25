@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Pool;
 
-namespace JobsTutorials.Lesson1.Common
+namespace JobsTutorials.Lesson1.Scripts.Common
 {
     public class ReturnToPool : MonoBehaviour
     {
